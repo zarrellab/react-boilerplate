@@ -1,0 +1,15 @@
+{
+  "presets": [
+  "react", "env"
+  ],
+  "plugins": [
+    "transform-react-jsx-img-import",
+    ["module-resolver", {
+      "root": ["./src"],
+      "alias": {
+        "^images": "./public/images",
+        "^style": "./src/style"
+      }
+    }]
+  ]
+}

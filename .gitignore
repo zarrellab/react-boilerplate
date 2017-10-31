@@ -1,0 +1,10 @@
+.DS_Store
+.DS_STORE
+Thumbs.db
+/node_modules
+
+# Build
+/dist/*
+
+# Notes
+/coverage/*

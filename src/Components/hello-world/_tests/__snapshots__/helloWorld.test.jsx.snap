@@ -1,0 +1,130 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HelloWorld component should render a greeting 1`] = `
+<div
+  className="center"
+  id="hello-world"
+>
+  <h1>
+    Welcome to your react app!
+  </h1>
+  <h3>
+    Here are some tools setup to use:
+  </h3>
+  <input
+    className="search"
+    name="search"
+    onChange={[Function]}
+    placeholder="search..."
+    type="text"
+    value=""
+  />
+  <ul
+    className="center iconList"
+    id="icon-list"
+  >
+    <li
+      className="iconLink"
+      id="icon"
+    >
+      <a
+        href="https://facebook.github.io/react/"
+        rel="noreferrer noopener"
+        target="_blank"
+      >
+        <img
+          alt="react"
+          height="100"
+          src="mock-source-file"
+          width="100"
+        />
+      </a>
+    </li>
+    <li
+      className="iconLink"
+      id="icon"
+    >
+      <a
+        href="http://babeljs.io/"
+        rel="noreferrer noopener"
+        target="_blank"
+      >
+        <img
+          alt="babel"
+          height="100"
+          src="mock-source-file"
+          width="100"
+        />
+      </a>
+    </li>
+    <li
+      className="iconLink"
+      id="icon"
+    >
+      <a
+        href="https://facebook.github.io/jest/"
+        rel="noreferrer noopener"
+        target="_blank"
+      >
+        <img
+          alt="jest"
+          height="100"
+          src="mock-source-file"
+          width="100"
+        />
+      </a>
+    </li>
+    <li
+      className="iconLink"
+      id="icon"
+    >
+      <a
+        href="https://webpack.github.io/docs/"
+        rel="noreferrer noopener"
+        target="_blank"
+      >
+        <img
+          alt="webpack"
+          height="100"
+          src="mock-source-file"
+          width="100"
+        />
+      </a>
+    </li>
+    <li
+      className="iconLink"
+      id="icon"
+    >
+      <a
+        href="http://www.seleniumhq.org/"
+        rel="noreferrer noopener"
+        target="_blank"
+      >
+        <img
+          alt="selenium"
+          height="100"
+          src="mock-source-file"
+          width="100"
+        />
+      </a>
+    </li>
+    <li
+      className="iconLink"
+      id="icon"
+    >
+      <a
+        href="https://eslint.org/"
+        rel="noreferrer noopener"
+        target="_blank"
+      >
+        <img
+          alt="eslint"
+          height="100"
+          src="mock-source-file"
+          width="100"
+        />
+      </a>
+    </li>
+  </ul>
+</div>
+`;
